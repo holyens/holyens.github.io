@@ -3,12 +3,12 @@ layout: page
 title:  "关于本站"
 date:   2018-02-13
 ---
-记录生活，分享感悟，总结知识，欢迎关注云梦斋！
+记录生活，分享感悟，总结知识，欢迎关注个人全栈开发经验分享！
 
-**云梦斋主人**
+**全栈布布**
 
-E-mail：[master@cdroom.com](mailto:master@cdroom.net)
+<!--E-mail：[master@cdroom.com](mailto:master@cdroom.net)
 
 Weibo : 缓风细雨 (可直接扫描下面二维码)
 
-<img src="/assets/weibo.png" alt="缓风细雨的微博" style="margin: 0px; border: 0; "/>
+<img src="/assets/weibo.png" alt="缓风细雨的微博" style="margin: 0px; border: 0; "/-->

@@ -1,7 +1,7 @@
 # Setup
-title:        云梦斋
-name:         云梦斋
-tagline:      总结知识，分享感悟，欢迎关注云梦斋
+title:        个人全栈开发经验分享
+name:         个人全栈开发经验分享
+tagline:      总结知识，分享感悟，欢迎关注个人全栈开发经验分享
 baseurl:      ""
 #paginate:     1
 locale:       "zh"
@@ -10,7 +10,7 @@ siteurl: https://www.cdroom.net
 permalink: /:year/:month/:day/:title.html
 # About/contact
 author:
-  name:       云梦斋主人
+  name:       全栈布布
   url:        https://www.cdroom.net
 
 # Gems
